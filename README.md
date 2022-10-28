@@ -4,9 +4,7 @@
 
 # Agent-Crop
 Agent Crop is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease.  
-- The link for the Pre-Trained Model can be found in the [app.py](./app.py) file.
-- The API can be accessed at the endpoint: https://agentcrop.azurewebsites.net/api/predict  
-- The API request should have 'files' part and should only include png and jpg/jpeg files of size less than 50 MB.  
+ 
 
 <details>
 <summary>Implement API in your App</summary>
